@@ -8,4 +8,5 @@ you might need to install some dependencies use the command given below :
 =========================================
 sudo apt install -y libcurl4-openssl-dev
 =========================================
-
+NOTE : You can customize the wordlist.txt for more efficient results depending on what you're looking for. 
+Though keep the file name as it is to avoid errors. 
